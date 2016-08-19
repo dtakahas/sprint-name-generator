@@ -1,0 +1,15 @@
+name: sprint-name-generator
+version: 0.1.0
+
+authors:
+  - Dave Takahashi <dtcello@gmail.com>
+
+license: MIT
+
+dependencies:
+  kemal:
+    github: sdogruyol/kemal
+    branch: master
+
+  haikunator:
+    github: dtakahas/haikunator

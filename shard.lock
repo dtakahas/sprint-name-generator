@@ -1,0 +1,18 @@
+version: 1.0
+shards:
+  haikunator:
+    github: dtakahas/haikunator
+    commit: 229238dc8e6d0f1665b8241e3741370f79ef1fa9
+
+  kemal:
+    github: sdogruyol/kemal
+    commit: 6280af2e405258cc353e7d6039f3066817398a45
+
+  kilt:
+    github: jeromegn/kilt
+    version: 0.3.3
+
+  radix:
+    github: luislavena/radix
+    version: 0.3.0
+
