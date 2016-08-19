@@ -1,22 +1,6 @@
 # sprint-name-generator
 
-TODO: Write a description here
-
-## Installation
-
-
-TODO: Write installation instructions here
-
-
-## Usage
-
-
-
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+App to generate Heroku-like tags (e.g. `hidden-sunset`) to use as sprint names or whatever you like.
 
 ## Contributing
 
@@ -28,4 +12,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) Dave Takahashi - creator, maintainer
+- [[dtakahas]](https://github.com/[your-github-name]) Dave Takahashi - creator, maintainer
