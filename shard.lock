@@ -2,7 +2,7 @@ version: 1.0
 shards:
   haikunator:
     github: dtakahas/haikunator
-    commit: b59ed887fd5d87d5ed155c48e092ce00a0855b93
+    commit: 70006ec136b2cdc54c419f031a2e7bfc0fe4751a
 
   kemal:
     github: sdogruyol/kemal
