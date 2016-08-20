@@ -18,5 +18,6 @@ a.button {
   text-decoration: none;
   color: initial;
   font-size: 40px;
+  font-family: monospace;
   padding: 10px 10px 5px 10px;
 }
